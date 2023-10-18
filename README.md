@@ -5,7 +5,7 @@ In array in C++ is a collection of items stored at contiguous memory locations a
 
 # **AIM-1**
 
-c++ programe of Strings
+C++ programe of Strings
 
 ## **THEORY**
 
@@ -129,15 +129,18 @@ string str_name = "This is a C++ string";
 ### **OUTPUT**
 
 - **String Display**
+- 
 ![Screenshot 2023-10-17 at 8 19 11 PM](https://github.com/sanskkriti/Arrays-Strings/assets/140137289/250aa0e3-295d-4f09-ac2d-aa6144eaae31)
 
 
 - **String Length**
+- 
 ![Screenshot 2023-10-17 at 8 19 24 PM](https://github.com/sanskkriti/Arrays-Strings/assets/140137289/d98f50cd-a382-4142-8306-78e641fcb5cb)
 
 
 
 - **String Concatenation and Reverse String Concatenation**
+- 
 
   ![Screenshot 2023-10-18 at 7 52 51 PM](https://github.com/sanskkriti/Arrays-Strings/assets/140137289/d1a231c4-00b8-41eb-9f97-bca3067ae2c1)
 
@@ -290,9 +293,11 @@ Decrement end by 1.
 #### **OUTPUT**
 
 - **Enter the marks of 10 subjects and display it**
+- 
 ![Screenshot 2023-10-18 at 7 54 50 PM](https://github.com/sanskkriti/Arrays-Strings/assets/140137289/65a3c88d-e9d8-41ae-8a93-428434cbae12)
 
 - **Enter the marks of subjects from user and display it**
+- 
 ![Screenshot 2023-10-18 at 7 54 59 PM](https://github.com/sanskkriti/Arrays-Strings/assets/140137289/a463af08-e264-406e-b09d-03bb742808e6)
 
 
@@ -300,14 +305,19 @@ Decrement end by 1.
 
 - **C++ program to find the maximum and minimum value of given array**
 
+
 ![Screenshot 2023-10-18 at 7 57 23 PM](https://github.com/sanskkriti/Arrays-Strings/assets/140137289/2a57e98a-4dad-4c8d-82fb-ffc149099596)
 
 
 - **C++ Program to find array Sum_Average**
+
+- 
 ![Screenshot 2023-10-18 at 7 57 30 PM](https://github.com/sanskkriti/Arrays-Strings/assets/140137289/b1442a5b-43eb-4142-a690-919266682d87)
 
 
 - **To Flip Element**
+
+- 
 ![Screenshot 2023-10-18 at 7 57 36 PM](https://github.com/sanskkriti/Arrays-Strings/assets/140137289/642ef5de-3e97-4097-8569-63f909f9a943)
 
 
